@@ -46,7 +46,7 @@ var circle = L.circle([1.6153647622901208, -75.61384927492189], 500, {
           .openPopup();
           
 var myIcon3 = L.icon({
-            iconUrl: 'https://karito2711.github.io/Ejercicio2.github.io/icono3.png',
+            iconUrl: 'icono3.png',
             iconSize: [30, 30],
             popupAnchor: [-1, -10]
             });
