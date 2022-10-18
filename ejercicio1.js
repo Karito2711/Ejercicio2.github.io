@@ -46,7 +46,7 @@ var circle = L.circle([1.6153647622901208, -75.61384927492189], 500, {
           .openPopup();
           
 var myIcon3 = L.icon({
-            iconUrl: 'icono3.PNG',
+            iconUrl: './icono3.PNG',
             iconSize: [30, 30],
             popupAnchor: [-1, -10]
             });
